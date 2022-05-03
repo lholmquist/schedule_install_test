@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@redhat/opossum": "6.3.0"
+    "@redhat/opossum": "5.0.0"
   }
 }
